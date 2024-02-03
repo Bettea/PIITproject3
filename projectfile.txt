@@ -1,0 +1,10 @@
+This is a test file from my local repo
+
+The name of my public (github) repo is Bettea/PIITproject3
+
+
+I created a local "gitrepos" folder'
+i have configured git user name and user email
+I have cloned my public repo to my local machine and now need to push this file 
+to the public repo.
+
